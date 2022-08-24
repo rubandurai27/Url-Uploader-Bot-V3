@@ -11,7 +11,7 @@ Hi {} 🥰
 
 Use help button to know how to use me
 
-🦊 <b>Maintained By</b> : [Tellybots](https://telegram.me/TellyBots)
+🦊 <b>Maintained By</b> : @JOKERBOTS
 """
     HELP_TEXT = """
 You need Help ?? 😅
@@ -28,17 +28,15 @@ You need Help ?? 😅
 
 ✵ Use `/caption` to Set caption as Reply to Media
 
-Maintained By : [Tellybots](https://telegram.me/TellyBots)
+Maintained By : @RUBANDURAI27
  
 """
     ABOUT_TEXT = """
-**♻️ My Name** : [Url Uploader Bot](http://t.me/TellyUploaderRobot)
+**♻️ My Name** : [Url Uploader Bot](http://t.me/TNUPLOADBOT)
 
 **🌀 Channel** : [Tellybots](https://t.me/TellyBots)
 
 **⚗️ Version** : [4.0 Beta](https://t.me/TellyUploaderRobot)
-
-**🌠 Source** : [Click Here](https://t.me/tellybots_digital)
 
 **🌺 Heroku** : [Heroku](https://heroku.com/)
 
@@ -48,7 +46,7 @@ Maintained By : [Tellybots](https://telegram.me/TellyBots)
 
 **👲 Developer :** [Tellybots](https://t.me/tellybots)
 
-**🦊 Maintained By :** [NaysaBots](https://t.me/NaysaBots)
+**🦊 Maintained By :** [JOKERBOTS](https://t.me/JOKERBots)
 
 """
 
@@ -86,20 +84,20 @@ Maintained By : [Tellybots](https://telegram.me/TellyBots)
 
 🛡️PLANS 1(PER 50 LINKS)🛡️
 
-🌸 1 Day      - ₹20
-🌺 1 Week   - ₹80
+🌸 1 Day   - ₹20
+🌺 1 Week  - ₹80
 🌷 1 Month - ₹140
 
 🛡️ PLANS 2(PER 100 LINKS)🛡️
 
-🌸 1 Day      - ₹40
-🌺 1 Week   - ₹100
+🌸 1 Day   - ₹40
+🌺 1 Week  - ₹100
 🌷 1 Month - ₹160
 
 🛡️ PLANS 3(PER 200 LINKS)🛡️
 
-🌸 1Day      - ₹60
-🌺 1Week   - ₹120
+🌸 1Day   - ₹60
+🌺 1Week  - ₹120
 🌷 1Month - ₹180
 
 """
